@@ -7,7 +7,7 @@ package swingmain;
 
 /**
  *
- * @author gerahn10
+ * @author brigh
  */
 public class Configuracion extends javax.swing.JFrame {
 
