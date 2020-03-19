@@ -7,7 +7,7 @@ package swingmain;
 import javax.swing.*;
 /**
  *
- * @author gerahn10
+ * @author brigh
  */
 public class CrearUsuario extends javax.swing.JFrame {
 
